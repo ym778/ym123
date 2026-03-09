@@ -1,6 +1,6 @@
 # ym123
 Personal Profile for OpenReview
-# Hi, I'm Yiming Zhang 👋
+# Hi, I'm Zhang Yiming 👋
 
 I am a first-year Master's student at the **University of Science and Technology of China (USTC)**, School of Information Science and Technology.
 
